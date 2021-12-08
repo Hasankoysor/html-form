@@ -1,0 +1,38 @@
+.container {
+  background-color: #222536;
+  width: 300px;
+  height: 300px;
+  color: #b0ae61;
+  padding-bottom: 20px;
+}
+.signUp {
+  background-color: #7e4d02;
+  margin-bottom: 0;
+  width: 300px;
+  font-size: 15px;
+  color: #f5e5ac;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#footer {
+  background-color: #de8704;
+  width: 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.submit {
+  background-color: green;
+  color: white;
+  border-radius: 3px;
+}
+.submit:hover {
+  background-color: greenyellow;
+}
+.cancel {
+  background-color: red;
+  color: white;
+  border-radius: 3px;
+}
+.cancel:hover {
+  background-color: hotpink;
+}
